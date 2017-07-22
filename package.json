@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "SearchGithuber",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "App where it is possible search for Github users and see their naem, quantity of followers, repositories etc...",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
